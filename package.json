@@ -20,7 +20,9 @@
       "url": "https://github.com/MathieuLoutre/mock-aws-s3/blob/master/LICENSE"
     }
   ],
+  "main": "./index.js",
   "files": [
+    "./index.js",
     "./lib/**/*"
   ],
   "engines": {
